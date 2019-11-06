@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{C0ED2750-7484-49E8-957E-3FD59117B0A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1Tests", "ConsoleApp1Tests\ConsoleApp1Tests.csproj", "{46F54C29-DB47-4365-BFDB-6152C2AD134A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0ED2750-7484-49E8-957E-3FD59117B0A1}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C0ED2750-7484-49E8-957E-3FD59117B0A1}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C0ED2750-7484-49E8-957E-3FD59117B0A1}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C0ED2750-7484-49E8-957E-3FD59117B0A1}.Release|anycpu.Build.0 = Release|anycpu
+		{46F54C29-DB47-4365-BFDB-6152C2AD134A}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{46F54C29-DB47-4365-BFDB-6152C2AD134A}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{46F54C29-DB47-4365-BFDB-6152C2AD134A}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{46F54C29-DB47-4365-BFDB-6152C2AD134A}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
